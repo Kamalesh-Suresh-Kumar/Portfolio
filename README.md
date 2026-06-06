@@ -1,6 +1,6 @@
 ### Special Thanks: 
-- (Monisha A)[https://github.com/Monishaappavu/]
-- (Kasilingam M)[https://github.com/lingaa005]
+- [Monisha A](https://github.com/Monishaappavu/)
+- [Kasilingam M](https://github.com/lingaa005)
 ### Created with Reference: 
-- (Monisha's portfolio)[https://github.com/Monishaappavu/portfolio_2025]
-- (lingaa's email server)[https://github.com/lingaa005/lingaaflask.git]
+- [Monisha's Portfolio](https://github.com/Monishaappavu/portfolio_2025)
+- [Lingaa's flask Email Server](https://github.com/lingaa005/lingaaflask.git)
